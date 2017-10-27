@@ -1,2 +1,0 @@
-# Notes
-Android mobile app
